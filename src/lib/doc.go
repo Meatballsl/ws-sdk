@@ -1,6 +1,6 @@
 package lib
 
 import (
-	_ "github.com/Wangsu-Cloud-Storage/wcs-go-sdk/src/lib/core"
-	_ "github.com/Wangsu-Cloud-Storage/wcs-go-sdk/src/lib/utility"
+	_ "github.com/Meatballsl/ws-sdk/src/lib/core"
+	_ "github.com/Meatballsl/ws-sdk/src/lib/utility"
 )

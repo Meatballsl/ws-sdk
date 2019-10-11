@@ -3,7 +3,7 @@ package core
 import (
 	"bytes"
 	"errors"
-	"github.com/Wangsu-Cloud-Storage/wcs-go-sdk/src/lib/utility"
+	"github.com/Meatballsl/ws-sdk/src/lib/utility"
 	"io"
 	"mime/multipart"
 	"net/http"

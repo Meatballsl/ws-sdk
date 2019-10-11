@@ -3,8 +3,8 @@ package test_common
 import (
 	"os"
 	"strings"
-	"github.com/Wangsu-Cloud-Storage/wcs-go-sdk/src/lib/core"
-	"github.com/Wangsu-Cloud-Storage/wcs-go-sdk/src/lib/utility"
+	"github.com/Meatballsl/ws-sdk/src/lib/core"
+	"github.com/Meatballsl/ws-sdk/src/lib/utility"
 )
 
 func EnvAuth() (auth *utility.Auth) {

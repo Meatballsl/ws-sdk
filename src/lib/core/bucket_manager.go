@@ -2,7 +2,7 @@ package core
 
 import (
 	"errors"
-	"github.com/Wangsu-Cloud-Storage/wcs-go-sdk/src/lib/utility"
+	"github.com/Meatballsl/ws-sdk/src/lib/utility"
 	"net/http"
 	"net/url"
 	"strconv"

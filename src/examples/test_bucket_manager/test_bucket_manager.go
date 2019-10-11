@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
-	"github.com/Wangsu-Cloud-Storage/wcs-go-sdk/src/examples/test_common"
-	"github.com/Wangsu-Cloud-Storage/wcs-go-sdk/src/lib/core"
+	"github.com/Meatballsl/ws-sdk/src/examples/test_common"
+	"github.com/Meatballsl/ws-sdk/src/lib/core"
 )
 
 func main() {
